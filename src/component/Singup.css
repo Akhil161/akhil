@@ -1,0 +1,17 @@
+.con{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: coral;
+}
+.formd{
+    position: absolute;
+    top: 168px;
+    left: 500px;
+    height: 30%;
+    width: 30%;
+    background-color: wheat;
+    padding: 54px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
